@@ -1,6 +1,6 @@
 # Spotify
 # Deployed link: https://boneyy-spotify.netlify.app/
-To gain access to this app, send me your name and the email address associated with your Spotify account.
+To gain access to this app, send me your name and the email address associated with your Spotify account to boneyupadhyay@gmail.com
 # Tech stack:
   + React
   + Tailwind css
